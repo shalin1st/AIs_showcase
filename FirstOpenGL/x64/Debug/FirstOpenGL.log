@@ -1,0 +1,13 @@
+﻿  cVAOMeshManager.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cvaomeshmanager.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cShaderManager.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cshadermanager.cpp(3): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cMesh.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cmesh.h(13): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cGameObject.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cgameobject.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  TheMain.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  ModelUtilities.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cmesh.h(13): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  Generating Code...

@@ -1,0 +1,10 @@
+﻿  myPhysics.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(107): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(114): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(252): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(266): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(302): warning C4305: '-=': truncation from 'double' to 'float'
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(338): warning C4305: '-=': truncation from 'double' to 'float'
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(395): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\myphysics\myphysics.cpp(420): warning C4018: '<': signed/unsigned mismatch
+  myPhysics.vcxproj -> E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\myPhysics.lib

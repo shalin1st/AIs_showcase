@@ -1,0 +1,46 @@
+﻿  Utilities.cpp
+  TheMain.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(267): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(273): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(340): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(588): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(279): warning C4101: 'vpos_location': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(279): warning C4101: 'vcol_location': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(278): warning C4101: 'fragment_shader': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(278): warning C4101: 'vertex_shader': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(278): warning C4101: 'program': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(278): warning C4101: 'vertex_buffer': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(579): warning C4101: 'dl': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(579): warning C4101: 'vl': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(579): warning C4101: 'dr': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(579): warning C4101: 'vr': unreferenced local variable
+  cVertex_xyz_rgb.cpp
+  cVAOMeshManager.cpp
+  cTriangle.cpp
+  cShaderManager.cpp
+  cShader.cpp
+  cMesh.cpp
+  cGameObject.cpp
+  Generating Code...
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\cvaomeshmanager.cpp(185): warning C4715: 'cVAOMeshManager::lookupVAOFromName': not all control paths return a value
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\themain.cpp(175): warning C4715: 'SceneDescriptor': not all control paths return a value
+  ModelUtilities.cpp
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\modelutilities.cpp(53): warning C4101: 'intensity': unreferenced local variable
+e:\gdp\semester 2\ai\project2\physics2_project3_balls_chasing\firstopengl\modelutilities.cpp(53): warning C4101: 'confidence': unreferenced local variable
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\glfw.pdb'; linking object as if no debug info
+  FirstOpenGL.vcxproj -> E:\GDP\Semester 2\AI\Project2\Physics2_Project3_Balls_chasing\Debug\FirstOpenGL.exe
